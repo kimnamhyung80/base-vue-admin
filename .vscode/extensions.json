@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "antfu.iconify",
+    "lokalise.i18n-ally",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens"
+  ]
+}

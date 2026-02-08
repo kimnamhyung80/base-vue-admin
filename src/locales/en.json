@@ -1,0 +1,52 @@
+{
+  "common": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "reset": "Reset",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "success": "Success",
+    "error": "Error",
+    "warning": "Warning",
+    "info": "Info"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "username": "Username",
+    "forgotPassword": "Forgot Password",
+    "rememberMe": "Remember me",
+    "loginSuccess": "Successfully logged in",
+    "logoutSuccess": "Successfully logged out",
+    "registerSuccess": "Registration completed"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Invalid email format",
+    "minLength": "Minimum {min} characters required",
+    "maxLength": "Maximum {max} characters allowed",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "users": "User Management",
+    "settings": "Settings"
+  },
+  "error": {
+    "notFound": "Page not found",
+    "forbidden": "Access denied",
+    "serverError": "Server error occurred",
+    "networkError": "Network error occurred",
+    "backToHome": "Back to Home"
+  }
+}
